@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-European Commission eTranslation is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://commission.europa.eu/resources-partners/etranslation_en
+European Commission eTranslation provides AI-powered language translation and related tools as part of the European Commission’s multilingualism initiatives. It offers free, secure translation, summarisation, and content generation services across all 24 EU official languages, targeting public sector users, language professionals, and educators. The service builds on decades of EU translation expertise and aims to enhance accessibility and communication within the European Union.
+
+**Areas:** Company · Government · Translation · AI · Multilingual
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://commission.europa.eu/resources-partners/etranslation_en)
+- [Documentation](https://translation.ec.europa.eu/tools-and-resources/ai-translation-and-language-tools_en)
+- [Getting started](https://translation.ec.europa.eu/tools-and-resources/ai-translation-and-language-tools_en)
+- [Support](https://translation.ec.europa.eu/index_en)
+- [Terms of service](https://commission.europa.eu/legal-notice_en)
+- [Privacy policy](https://commission.europa.eu/privacy-policy-websites-managed-european-commission_en)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/european-commission-etranslation/](https://apis.io/providers/european-commission-etranslation/).
